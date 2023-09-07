@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p, div {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 25px;
+    margin-top: 40px;
+    background-color: rgb(225,79,58);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;    
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(https://beachbrella.com/wp-content/uploads/2015/11/BB1006-LasBrisas-1.jpg);
+    background-size: cover;
+}

@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.head {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.box {
+  padding: 15px 40px 15px;
+  background-color: rgb(133, 152, 204);
+  color: white;
+  font-weight: 100;
+}
+
+p {
+  margin: 20px 0;
+}
+.company {
+  text-align: center;
+  font-size: 50px;
+}
+
+span {
+  color: rgb(89, 190, 230);
+  font-weight: bold;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 30px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 25px 15px;
+  font-size: 20px;
+  margin: 15px 0;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.plans {
+  margin-right: 25px;
+}

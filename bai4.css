@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: rgb(245, 245, 245);
+}
+
+h1 {
+  text-align: center;
+  margin: 30px 0;
+}
+
+form {
+  background-color: white;
+  width: 450px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 5px;
+  padding: 20px;
+}
+
+input, textarea {
+  width: 90%;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding: 7px 18px 7px;
+  border-radius: 4px;
+}
